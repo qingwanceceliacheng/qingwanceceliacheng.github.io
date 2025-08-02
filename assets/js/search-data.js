@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-began-working-as-a-computer-science-teaching-assistant-at-boston-college-conducting-research-on-introductory-computer-science-education-under-the-supervision-of-professor-maira-marques-samary",
+          title: 'I began working as a Computer Science Teaching Assistant at Boston College, conducting...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-joined-innovation-in-urban-science-education-as-an-undergraduate-research-assistant",
+          title: 'I joined Innovation in Urban Science Education as an Undergraduate Research Assistant.',
           description: "",
-          section: "News",},{id: "news-2021-09-i-began-working-as-a-computer-science-teaching-assistant-at-boston-college-and-conducting-research-on-introductory-computer-science-education-under-the-supervision-of-professor-maira-marques-samary",
-          title: '2021-09 I began working as a Computer Science Teaching Assistant at Boston College...',
+          section: "News",},{id: "news-i-joined-dell-technologies-as-a-data-analyst-summer-intern",
+          title: 'I joined Dell Technologies as a Data Analyst Summer Intern.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
