@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my research and design projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -446,9 +446,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-design-play-empower-a-model-for-student-engagement-in-environmental-education-was-accepted-to-the-2nd-international-conference-on-education-research",
           title: 'Our paper, “Design, Play, Empower: A Model for Student Engagement in Environmental Education,”...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-aftermath-educational-board-game-development",
+          title: 'Aftermath Educational Board Game Development',
+          description: "A series of design thinking workshops focused on play, learning, and empowerment to address the global textile waste crisis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
