@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Aftermath Educational Board Game Development
-description: A series of design thinking workshops focused on play, learning, and empowerment to address the global textile waste crisis.
+description: A series of design thinking workshops focused on play, learning, and empowerment to address the global textile waste crisis
 img: assets/img/aftermath_game.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false # true
 ---
 Amid the growing textile waste crisis, we developed an educational board game to raise awareness and empower individuals to see themselves as active agents of change. Through a shared experience of design and play, the project fosters imagination, critical reflection, and a sense of collective responsibility.
 
