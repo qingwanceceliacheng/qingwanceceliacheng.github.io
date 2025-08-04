@@ -448,12 +448,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-aftermath-educational-board-game-development",
           title: 'Aftermath Educational Board Game Development',
-          description: "A series of design thinking workshops focused on play, learning, and empowerment to address the global textile waste crisis.",
+          description: "A series of design thinking workshops focused on play, learning, and empowerment to address the global textile waste crisis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-recreating-displaced-art-with-technology-for-elementary-education",
+          title: 'Recreating Displaced Art with Technology for Elementary Education',
+          description: "An after-school program integrating social justice and technology for elementary school students",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
