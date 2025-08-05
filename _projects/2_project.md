@@ -114,3 +114,7 @@ We see great potential to scale and deepen the project. In the future, we hope t
 
 This project planted two kinds of seeds - technology and justice - in young minds. Our hope is that these seeds will grow into empathy, curiosity, and a lifelong commitment to building a more ethical and informed future.
 
+<iframe src="/assets/pdf/accelerate_final_presentation.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="/assets/pdf/accelerate_final_presentation.pdf">Download PDF</a>.
+</iframe>

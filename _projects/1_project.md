@@ -73,7 +73,7 @@ I led the development of Aftermath, a board game themed around textile waste, by
 
 ### Game Evolution: From Competitive Play to Collective Action
 
-The initial version of the game was designed as a competitive experience involving three roles: Consumer, Advocate, and Landfill Manager. Consumers advanced on the board using action cards, while Advocates and the Landfill Manager influenced gameplay through policy and disaster cards. The win conditions were asymmetrical—Consumers and Advocates aimed to avoid the landfill, while the Landfill Manager's goal was to direct at least one player there. This setup introduced the basic dynamics of environmental decision-making but framed them in opposition.
+The initial version of the game was designed as a competitive experience involving three roles: **Consumer, Advocate, and Landfill Manager**. Consumers advanced on the board using action cards, while Advocates and the Landfill Manager influenced gameplay through policy and disaster cards. The win conditions were asymmetrical—Consumers and Advocates aimed to avoid the landfill, while the Landfill Manager's goal was to direct at least one player there. This setup introduced the basic dynamics of environmental decision-making but framed them in opposition.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -81,7 +81,7 @@ The initial version of the game was designed as a competitive experience involvi
     </div>
 </div>
 
-In the second version, the game expanded to include more relatable and socially grounded roles, such as Teacher, Lawyer, and Fast-Fashion Company Leader. The Advocate and Landfill Manager were removed as player roles and reimagined as interactive elements on the board. When players landed on specific grids, they could draw a policy or disaster card, maintaining the influence of those roles while ensuring that every player remained actively engaged. This version also refined the game's objectives and introduced more structured movement and action paths for each character.
+In the second version, the game expanded to include more relatable and socially grounded roles, such as **Teacher, Lawyer, and Fast-Fashion Company Leader**. The Advocate and Landfill Manager were removed as player roles and reimagined as interactive elements on the board. When players landed on specific grids, they could draw a policy or disaster card, maintaining the influence of those roles while ensuring that every player remained actively engaged. This version also refined the game's objectives and introduced more structured movement and action paths for each character.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -89,7 +89,7 @@ In the second version, the game expanded to include more relatable and socially 
     </div>
 </div>
 
-The third and current version transformed the game into a cooperative experience, better reflecting the collaborative nature of real-world environmental efforts. Each player now takes on a unique societal role—such as Teacher, Lawyer, Policy Maker, or Fast-Fashion Company Leader—with an individual pathway to impact change. Skill cards allow players to support one another’s progress, while Non-Profit grids highlight real-world initiatives working to reduce textile waste. The game’s win condition was unified: either all players succeed together by reaching the “Closet” and mitigating textile waste, or all lose. This cooperative structure promotes empathy, shared responsibility, and systems thinking.
+The third and current version transformed the game into a **cooperative experience**, better reflecting the collaborative nature of real-world environmental efforts. Each player now takes on a unique societal role—such as Teacher, Lawyer, Policy Maker, or Fast-Fashion Company Leader—with an individual pathway to impact change. **Skill cards** allow players to support one another’s progress, while **Non-Profit grids** highlight real-world initiatives working to reduce textile waste. The game’s win condition was unified: either all players succeed together by reaching the “Closet” and mitigating textile waste, or all lose. This cooperative structure promotes empathy, shared responsibility, and systems thinking.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
