@@ -443,7 +443,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-earned-my-business-analytics-certificate-from-harvard-business-school-online",
           title: 'I earned my Business Analytics Certificate from Harvard Business School Online.',
           description: "",
-          section: "News",},{id: "news-our-paper-design-play-empower-a-model-for-student-engagement-in-environmental-education-was-accepted-to-the-2nd-international-conference-on-education-research",
+          section: "News",},{id: "news-our-paper-design-play-empower-a-model-for-student-engagement-in-environmental-education-was-accepted-to-the-2nd-international-conference-on-education-research-icer",
           title: 'Our paper, “Design, Play, Empower: A Model for Student Engagement in Environmental Education,”...',
           description: "",
           section: "News",},{id: "projects-aftermath-educational-board-game-development",
@@ -466,31 +466,11 @@ ninja.data = [{
           description: "Creating a space for all generations to gather, leading to lives that are richer in meaning and purpose.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
