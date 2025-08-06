@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Dell Technologies as a Data Analyst Summer Intern.
+I joined Dell Technologies as a **Data Analyst** Summer Intern.

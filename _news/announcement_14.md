@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We successfully organized and moderated LEAPS 2025 Textile Waste Conference hosted by the Aftermath Learning Lab.
+We successfully organized and moderated **LEAPS 2025 Textile Waste Conference** hosted by the Aftermath Learning Lab.

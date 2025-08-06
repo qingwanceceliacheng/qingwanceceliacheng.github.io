@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, “Designing an Assessment for an Introductory Computer Science Course: A Systematic Literature Review,” was accepted to the 2022 IEEE Frontiers in Education Conference (FIE).
+Our paper, “Designing an Assessment for an Introductory Computer Science Course: A Systematic Literature Review,” was accepted to the **2022 IEEE Frontiers in Education Conference (FIE)**.

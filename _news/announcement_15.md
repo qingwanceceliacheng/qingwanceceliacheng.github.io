@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I earned my Business Analytics Certificate from Harvard Business School Online.
+I earned my **Business Analytics Certificate** from **Harvard Business School Online**.

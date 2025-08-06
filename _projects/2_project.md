@@ -4,7 +4,7 @@ title: Recreating Displaced Art with Technology for Elementary Education
 description: An after-school program integrating social justice and technology for elementary school students
 img: assets/img/columbkille_students.jpg
 importance: 2
-category: work
+category: research
 giscus_comments: false # true
 ---
 I had the opportunity to co-lead a fellowship project through the ACCelerate Festival, supported by Virginia Tech’s Institute for Creativity, Arts, and Technology and the Smithsonian Institution’s Lemelson Center for the Study of Invention and Innovation. In collaboration with Rodney Kimbangu (MFA, Creative Technologies, Virginia Tech), our project explored how technology—particularly 3D printing—can serve as a powerful educational tool to help elementary school students engage with complex topics such as cultural displacement and social justice.

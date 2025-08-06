@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed the in-person course Operations Management: Business Process Fundamentals at Boston University, earning a grade of A.
+I completed the in-person course **Operations Management: Business Process Fundamentals** at Boston University, earning a grade of A.

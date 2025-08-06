@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I returned to Dell Technologies as a full-time Data Analyst.
+I returned to **Dell Technologies** as a full-time **Data Analyst**.

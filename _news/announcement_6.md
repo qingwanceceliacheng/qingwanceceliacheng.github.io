@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Aftermath Learning Lab as an Undergraduate Research Assistant, advised by Professor Julia DeVoy.
+I joined Aftermath Learning Lab as an **Undergraduate Research Assistant**, advised by Professor Julia DeVoy.

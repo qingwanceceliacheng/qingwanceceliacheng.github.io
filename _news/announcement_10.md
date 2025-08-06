@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I returned to Aftermath Learning Lab as a part-time Program Manager.
+I returned to **Aftermath Learning Lab** as a part-time **Program Manager**.

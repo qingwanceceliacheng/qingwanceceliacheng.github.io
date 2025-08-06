@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began tutoring high school students in preparation for the 2025 AP Psychology exam.
+I began tutoring high school students in preparation for the 2025 **AP Psychology** exam.

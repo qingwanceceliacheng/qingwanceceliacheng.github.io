@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from Boston College and received the General Excellence Award from the Lynch School of Education and Human Development.
+I graduated from **Boston College** and received the **General Excellence Award** from the Lynch School of Education and Human Development.

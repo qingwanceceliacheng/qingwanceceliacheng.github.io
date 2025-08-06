@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, “Design, Play, Empower: A Model for Student Engagement in Environmental Education,” was accepted to the 2nd International Conference on Education Research.
+Our paper, “Design, Play, Empower: A Model for Student Engagement in Environmental Education,” was accepted to the **2nd International Conference on Education Research** (ICER).

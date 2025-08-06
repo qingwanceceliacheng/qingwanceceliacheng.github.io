@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I earned my Certified Associate in Project Management (CAPM) credential from the Project Management Institute.
+I earned my **Certified Associate in Project Management** (CAPM) credential from the Project Management Institute.
