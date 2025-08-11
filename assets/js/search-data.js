@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Coming soon",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -466,11 +466,11 @@ ninja.data = [{
           description: "Creating a space for all generations to gather, leading to lives that are richer in meaning and purpose.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-design-thinking-meets-ai-creating-educational-board-games-on-textile-waste",
+          title: 'Design Thinking Meets AI - Creating Educational Board Games on Textile Waste',
+          description: "Coming soon with more data",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-email',
         title: 'email',
