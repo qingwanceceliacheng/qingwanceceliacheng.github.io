@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began serving as the **Young Professionals Affinity Group Chair** for the IEEE Boston Section.
+I began serving as the **Young Professionals Affinity Group Vice Chair** for the IEEE Boston Section.

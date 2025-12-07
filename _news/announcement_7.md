@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We received the **Best Poster Presentation Award** at the 2023 International Conference on Gender Research (ICGR).
+We received the **Best Poster Presentation Award** at the 2023 International Conference on Gender Research (ICGR) on our Poster **Ecofeminist Environmental and Gendered Health Effects from Post-Consumer Textile Waste**.

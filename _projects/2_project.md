@@ -3,15 +3,15 @@ layout: page
 title: Recreating Displaced Art with Technology for Elementary Education
 description: An after-school program integrating social justice and technology for elementary school students
 img: assets/img/columbkille_students.jpg
-importance: 2
+importance: 1
 category: research
 giscus_comments: false # true
 ---
-I had the opportunity to co-lead a fellowship project through the ACCelerate Festival, supported by Virginia Tech’s Institute for Creativity, Arts, and Technology and the Smithsonian Institution’s Lemelson Center for the Study of Invention and Innovation. In collaboration with Rodney Kimbangu (MFA, Creative Technologies, Virginia Tech), our project explored how technology—particularly 3D printing—can serve as a powerful educational tool to help elementary school students engage with complex topics such as cultural displacement and social justice.
+I had the opportunity to co-lead the ACCelerate Fellowship Project, supported by the Smithsonian Institution’s Lemelson Center for the Study of Invention and Innovation and Virginia Tech’s Institute for Creativity, Arts, and Technology. In collaboration with Rodney Kimbangu (MFA, Creative Technologies, Virginia Tech), our project explored how technology, particularly 3D printing, can serve as a powerful educational tool to help elementary school students engage with complex topics such as cultural displacement and social justice.
 
-We were inspired by several pressing realities: children are growing up surrounded by technology, artificial intelligence is rapidly advancing, and conversations about justice and equity are more important than ever. At the same time, the issue of stolen and displaced cultural artifacts—especially from African and Asian nations—continues to raise ethical questions for institutions around the world.
+We were inspired by several pressing realities: children are growing up surrounded by technology, artificial intelligence is rapidly advancing, and conversations about justice and equity are more important than ever. At the same time, the issue of stolen and displaced cultural artifacts, especially from African and Asian nations, continues to raise ethical questions for institutions around the world.
 
-Rather than speak only to adults, we chose to work with younger students, specifically 2nd to 4th graders. We believed that planting seeds of empathy and awareness early could have a greater long-term impact. 
+Rather than speak only to adults, we chose to work with younger students - 2nd to 4th graders. We believed that planting seeds of empathy and awareness early could have a greater long-term impact. 
 
 ### The Plan
 <table style="width:100%; border-collapse: collapse;" border="1">
@@ -40,7 +40,7 @@ Rather than speak only to adults, we chose to work with younger students, specif
 ### The Program
 We delivered a series of four one-hour sessions to 16 students in Grades 2–4, combining hands-on technology with social justice education to build empathy, curiosity, and critical thinking.
 
-Class 1: Introduction to 3D Printing & Cultural Artifacts
+**Class 1: Introduction to 3D Printing & Cultural Artifacts**
 
 We introduced students to 3D printers and 3D-printed toys, sparking their curiosity about how technology can create tangible objects. We then presented Tchokwe masks as an example of cultural artifacts that had been removed from their communities, prompting early conversations about cultural heritage and displacement.
 
@@ -56,7 +56,7 @@ We introduced students to 3D printers and 3D-printed toys, sparking their curios
     </div>
 </div>
 
-Class 2: Recreating Objects with Technology
+**Class 2: Recreating Objects with Technology**
 
 Students learned the basics of 3D scanning and modeling, including how hundreds of images can be used to digitally reconstruct an object. They observed the complete process of turning a digital model into a 3D-printed artifact, bridging the gap between technology and historical preservation.
 
@@ -72,7 +72,7 @@ Students learned the basics of 3D scanning and modeling, including how hundreds 
     </div>
 </div>
 
-Class 3: Empathy Through Personal Experience
+**Class 3: Empathy Through Personal Experience**
 
 Through guided reflection, we invited students to draw connections between their personal experiences and the concept of cultural loss. Questions such as:
 - Have you ever been to a museum?
@@ -81,7 +81,7 @@ Through guided reflection, we invited students to draw connections between their
 
 These prompts helped students build emotional awareness and empathize with communities whose cultural objects have been displaced or stolen.
 
-Class 4: Ownership, Museums & Responsibility
+**Class 4: Ownership, Museums & Responsibility**
 
 We explored real-world case studies, such as those involving the British Museum, and shared diverse perspectives from African scholars and community members. Students were encouraged to think critically about museum collections, the history behind the objects, and their role in shaping narratives about ownership and cultural identity.
 
@@ -114,7 +114,7 @@ We see great potential to scale and deepen the project. In the future, we hope t
 
 This project planted two kinds of seeds - technology and justice - in young minds. Our hope is that these seeds will grow into empathy, curiosity, and a lifelong commitment to building a more ethical and informed future.
 
-<iframe src="/assets/pdf/accelerate_final_presentation.pdf" width="100%" height="600px">
+<iframe src="/assets/pdf/Accelerate_final_presentation.pdf" width="100%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="/assets/pdf/accelerate_final_presentation.pdf">Download PDF</a>.
+  <a href="/assets/pdf/Accelerate_final_presentation.pdf">Download PDF</a>.
 </iframe>
