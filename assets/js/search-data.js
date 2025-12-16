@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "updated August 2025",
+          description: "updated December 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -480,6 +480,16 @@ ninja.data = [{
           description: "A workshop exploring the role of generative AI in creative projects and examining how students’ behaviors, choices, and reflections change when designing with or without AI.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-dell-lunar-new-year-celebration",
+          title: 'Dell Lunar New Year Celebration',
+          description: "Annual chinese culture celebration with performances, table activities, and food",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-ieee-boston-section-young-professionals-yp-group-events",
+          title: 'IEEE Boston Section Young Professionals (YP) Group Events',
+          description: "A series of IEEE Boston YP events that I proposed and implemented",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
         id: 'social-email',
         title: 'email',
